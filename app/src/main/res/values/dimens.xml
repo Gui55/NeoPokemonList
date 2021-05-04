@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="simple_result_recylcer_general_line_height">200dp</dimen>
+    <dimen name="cardview_simple_results_height">170dp</dimen>
+    <dimen name="simple_poke_name_height">60dp</dimen>
+</resources>
